@@ -50,5 +50,5 @@ The following sorting algorithms are included in this project:
 
 ## **Authors** :writing_hand:
 
-* **Abdelkader AOUAR**  - [Github](https://github.com/powerofcode2023)
-* **Sabrina PAPEAU** - [Github](https://github.com/Holbiwan)
+* **Abdelkader**  - [Github](https://github.com/powerofcode2023)
+* **Sabrina** - [Github](https://github.com/DataSab)
